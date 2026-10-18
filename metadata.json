@@ -1,0 +1,6 @@
+{
+  "name": "TakaPay - Bangladesh Digital Wallet & Ledger",
+  "description": "Modern Bangladesh mobile wallet and balance sharing application with double-entry financial ledger, Send Money, Cash In/Out, Recharge, and Admin console.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
